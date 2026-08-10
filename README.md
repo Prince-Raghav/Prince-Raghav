@@ -112,5 +112,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prince-Raghav/Prince-Raghav/output/ocean.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Prince-Raghav/Prince-Raghav/output/ocean.gif" alt="Snake Animation" />
 </p>
