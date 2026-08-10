@@ -66,3 +66,15 @@
 <img src="https://streak-stats.demolab.com?user=Prince-Raghav&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Exam Notes Generator | AI-powered exam notes generator using React, Node.js, Gemini API & Firebase |
+| 🌐 Portfolio Website | Personal responsive portfolio showcasing skills and projects |
+| ✅ Todo App | Task management app using JavaScript |
+| 🎮 Tic Tac Toe | Classic game built using HTML, CSS & JavaScript |
+
