@@ -109,4 +109,9 @@
 <img src="https://komarev.com/ghpvc/?username=Prince-Raghav&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prince-Raghav/Prince-Raghav/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
