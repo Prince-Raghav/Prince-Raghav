@@ -78,3 +78,35 @@
 | ✅ Todo App | Task management app using JavaScript |
 | 🎮 Tic Tac Toe | Classic game built using HTML, CSS & JavaScript |
 
+---
+
+# 🏆 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Prince_Raghav150/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/princeraghav150">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prince-raghav-55343332a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://prince-raghav-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Prince-Raghav&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
