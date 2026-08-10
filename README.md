@@ -56,13 +56,7 @@
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prince-Raghav&theme=tokyonight"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
