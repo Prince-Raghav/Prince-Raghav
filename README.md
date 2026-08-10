@@ -111,5 +111,6 @@
 </p>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Prince-Raghav/Prince-Raghav/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prince-Raghav/Prince-Raghav/output/ocean.gif" alt="Snake animation" />
+</p>
