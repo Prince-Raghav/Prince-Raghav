@@ -14,7 +14,7 @@
 - 💻 Passionate Software Engineer
 - 🌱 Currently Learning **Java, DSA & MERN Stack**
 - 🚀 Building AI & Full Stack Projects
-- 🎯 Goal: **7+ LPA Software Engineer**
+
 
 ---
 
